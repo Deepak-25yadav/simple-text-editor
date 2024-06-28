@@ -1,6 +1,6 @@
 # Simple-Text-Editor with Font Customization.
 Punt-Partner assignment simple-text-editor.
-**UI Deployed link:** https://text-editor-fe.vercel.app/
+**UI Deployed link:** https://punt-partner-text-editor-deepak-yadav.netlify.app/
 
 This project is a simple text editor implemented using React and JavaScript. The editor allows users to select a font family, font weight, and toggle italic styling. The font settings are applied instantly to the entire text. The editor also supports auto-saving the text and font settings locally in the browser, ensuring that the current content and settings are restored upon reloading the page. Additional functionalities include resetting the editor and saving the text as a list below the editor box.
 
